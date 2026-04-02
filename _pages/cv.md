@@ -30,7 +30,7 @@ Work Experiences
 ======
 * **Spellbrush** — Researcher (Part-time), Oct. 2025 ~ Present
   * Research on speech generation in multimodal dialogue models and video generation models
-* **CoeFont Co., Ltd.** — Researcher (Part-time), Apr. 2023 ~ Present
+* **CoeFont Co., Ltd.** — Researcher (Part-time), Apr. 2023 ~ Mar. 2026
   * Improvement and acceleration of the self-supervised learning framework for real-time speech synthesis and voice conversion
 * **Cygames Inc.** — Researcher (Part-time), Oct. 2024 ~ Jun. 2025
   * Research on real-time foley sound synthesis in the virtual environment
@@ -63,7 +63,7 @@ Honors and Scholarships
 * **Best Paper Award**, Sound Symposiums 2025, Jun. 2025
 * **Best Student Paper Award (LY Corporation Award)**, 154th Conference on Spoken Language Processing (SLP), Dec. 2024
 * **Honorable Mention Award**, ETRI OpenAPI Competition, Nov. 2022
-* **Japanese Government (MEXT) Scholarship**, Apr. 2022 ~ Present
+* **Japanese Government (MEXT) Scholarship**, Apr. 2022 ~ Mar. 2026
   * 147,000 JPY/month
 * **Best Undergraduate Paper Award**, Korean Information Science Society, May 2021
 
