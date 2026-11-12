@@ -5,7 +5,7 @@ collection: "publications"
 category: "conferences"
 permalink: "/publication/2025-09-01-neural-audio-codecs"
 date: 2025-09-01
-spotlight: 3
+spotlight: 9
 authors: "Joonyong Park, Shinnosuke Takamichi, David M. Chan, Shunsuke Kando, Yuki Saito, Hiroshi Saruwatari"
 venue: "Proceedings of IEEE ASRU 2025"
 venue_short: "IEEE ASRU 2025"

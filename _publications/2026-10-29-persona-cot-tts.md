@@ -5,12 +5,14 @@ collection: "publications"
 category: "preprints"
 permalink: "/publication/2026-10-29-persona-cot-tts"
 date: 2026-10-29
-spotlight: 6
+spotlight: 1
 authors: "Joonyong Park, Jerry Li"
 venue: "Under review at IEEE ICASSP 2027"
 venue_short: "Under review · ICASSP 2027"
 projecturl: "https://nonmetal.github.io/when-the-persona-contradicts-the-line/"
 paperurl: "https://arxiv.org/abs/2610.35008"
+image: "/images/publications/persona-cot-tts.png"
+image_alt: "The stock IndexTTS-2.5 emotion-control route (persona and line, external planner, QwenEmotion, emotion vector, synthesizer) and three interventions: bypass, SFT, and a learned text-to-latent model."
 highlights:
   - "Diagnoses where intended vocal affect is lost in chain-of-thought TTS when the requested persona conflicts with the wording of the line."
   - "Introduces a bilingual Japanese–English persona–line conflict benchmark: each line is paired with congruent and conflicting personas and a pre-declared expected acoustic direction."

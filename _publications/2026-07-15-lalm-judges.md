@@ -5,11 +5,13 @@ collection: "publications"
 category: "preprints"
 permalink: "/publication/2026-07-15-lalm-judges"
 date: 2026-07-15
-spotlight: 11
+spotlight: 6
 authors: "Joonyong Park, David M. Chan, Yuki Saito, Hiroshi Saruwatari"
 venue: "Submitted to IEEE SLT 2026"
 venue_short: "Submitted · IEEE SLT 2026"
 paperurl: "https://arxiv.org/abs/2607.13477"
+image: "/images/publications/lalm-judges.png"
+image_alt: "Overview of the three shortcut audits for LALM judges: feature-blueprint copying, reference-label following, and pairwise slot or format lock."
 highlights:
   - "Asks whether large audio language model (LALM) judges actually listen to the audio when they evaluate speech."
   - "Audits feature-blueprint, reference-conditioned and pairwise A/B protocols across six judges and four attributes, and finds that several judges rely on protocol-level shortcuts."
