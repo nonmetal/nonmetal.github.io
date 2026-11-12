@@ -1,10 +1,18 @@
 ---
 title: "Analysing the Language of Neural Audio Codecs"
-collection: publications
-category: conferences
-permalink: /publication/2025-09-01-neural-audio-codecs
+short_title: "The Language of Neural Audio Codecs"
+collection: "publications"
+category: "conferences"
+permalink: "/publication/2025-09-01-neural-audio-codecs"
 date: 2025-09-01
-venue: 'IEEE ASRU 2025'
-paperurl: 'https://arxiv.org/abs/2509.01390'
-citation: 'Joonyong Park, Shinnosuke Takamichi, David M. Chan, Shunsuke Kando, Yuki Saito, Hiroshi Saruwatari. (2025). &quot;Analysing the Language of Neural Audio Codecs.&quot; <i>Proc. IEEE ASRU</i>, 2025.'
+spotlight: 3
+authors: "Joonyong Park, Shinnosuke Takamichi, David M. Chan, Shunsuke Kando, Yuki Saito, Hiroshi Saruwatari"
+venue: "Proceedings of IEEE ASRU 2025"
+venue_short: "IEEE ASRU 2025"
+paperurl: "https://arxiv.org/abs/2509.01390"
+highlights:
+  - "Examines whether discrete tokens from neural audio codecs (NACs) follow linguistic statistical laws such as Zipf's and Heaps' laws, together with entropy and redundancy."
+  - "NAC token sequences show language-like statistics, most clearly at the 3-gram level."
+  - "These properties, with measures of information content, correlate with speech recognition and resynthesis performance."
+citation: "Joonyong Park, Shinnosuke Takamichi, David M. Chan, Shunsuke Kando, Yuki Saito, Hiroshi Saruwatari. \"Analysing the Language of Neural Audio Codecs.\" <i>Proceedings of IEEE ASRU 2025</i>."
 ---

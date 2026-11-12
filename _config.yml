@@ -75,12 +75,14 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
+  preprints:
+    title: 'Preprints / Under Review'
   conferences:
-    title: 'Conference Papers'
+    title: 'International Conferences (Peer-Reviewed)'
+  domestic:
+    title: 'Domestic Conferences (First Author)'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

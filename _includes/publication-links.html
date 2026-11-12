@@ -1,0 +1,10 @@
+{%- assign p = include.pub -%}
+{%- if p.projecturl or p.paperurl or p.codeurl or p.demourl or p.modelurl -%}
+{%- if include.inline -%}<span class="pub-links pub-links--inline">{%- else -%}<p class="pub-links">{%- endif -%}
+{%- if p.projecturl -%}<a href="{{ p.projecturl }}"><i class="fas fa-globe" aria-hidden="true"></i>project page</a>{%- endif -%}
+{%- if p.paperurl -%}<a href="{{ p.paperurl }}"><i class="fas fa-file-alt" aria-hidden="true"></i>paper</a>{%- endif -%}
+{%- if p.codeurl -%}<a href="{{ p.codeurl }}"><i class="fab fa-github" aria-hidden="true"></i>code</a>{%- endif -%}
+{%- if p.demourl -%}<a href="{{ p.demourl }}"><i class="fas fa-play-circle" aria-hidden="true"></i>demo</a>{%- endif -%}
+{%- if p.modelurl -%}<a href="{{ p.modelurl }}"><i class="fas fa-cube" aria-hidden="true"></i>model</a>{%- endif -%}
+{%- if include.inline -%}</span>{%- else -%}</p>{%- endif -%}
+{%- endif -%}

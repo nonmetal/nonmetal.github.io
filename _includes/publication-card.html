@@ -1,0 +1,30 @@
+{% include base_path %}
+{% assign p = include.pub %}
+<div class="pub-card{% if include.hide_title %} pub-card--page{% endif %}" id="{{ p.slug }}">
+  {% unless include.hide_title %}<h3 class="pub-card__title">{{ p.title }}</h3>{% endunless %}
+  {% if p.authors %}<p class="pub-card__authors">{% include publication-authors.html authors=p.authors %}</p>{% endif %}
+  {% if p.venue %}<p class="pub-card__venue">{{ p.venue }}</p>{% endif %}
+  {% include publication-links.html pub=p %}
+  {% if p.highlights %}
+  <ul class="pub-card__highlights">
+    {% for h in p.highlights %}<li>{{ h | markdownify | remove: "<p>" | remove: "</p>" | strip }}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+  {% if p.youtube %}
+  <div class="pub-card__media">
+    <div class="pub-video"><iframe src="https://www.youtube-nocookie.com/embed/{{ p.youtube }}" title="{{ p.title | escape }}" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  </div>
+  {% elsif p.image %}
+  <div class="pub-card__media">
+    <img src="{{ base_path }}{{ p.image }}" alt="{{ p.image_alt | default: p.title | escape }}" loading="lazy">
+  </div>
+  {% elsif p.short_title and include.hide_title == nil %}
+  <div class="pub-card__media">
+    <div class="pub-cover" aria-hidden="true">
+      <span class="pub-cover__short">{{ p.short_title }}</span>
+      {% if p.venue_short %}<span class="pub-cover__venue">{{ p.venue_short }}</span>{% endif %}
+    </div>
+  </div>
+  {% endif %}
+</div>
