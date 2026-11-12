@@ -80,8 +80,17 @@ $pub-accent: #b5562d;
   }
 
   img {
+    width: auto;
+    max-width: 100%;
     height: auto;
+    max-height: 480px;
+    margin: 0 auto;
   }
+}
+
+/* Paper figures get a wider frame than video or placeholder cards, so wide diagrams stay legible */
+.pub-card__media--figure {
+  max-width: 860px;
 }
 
 .pub-video {

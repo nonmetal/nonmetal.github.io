@@ -5,7 +5,7 @@ collection: "publications"
 category: "preprints"
 permalink: "/publication/2026-10-06-kyarabench"
 date: 2026-10-06
-spotlight: 7
+spotlight: 2
 authors: "Joonyong Park, Jerry Li"
 venue: "Under review at IEEE ICASSP 2027"
 venue_short: "Under review · ICASSP 2027"

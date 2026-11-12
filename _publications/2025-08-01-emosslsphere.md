@@ -5,7 +5,7 @@ collection: "publications"
 category: "conferences"
 permalink: "/publication/2025-08-01-emosslsphere"
 date: 2025-08-01
-spotlight: 5
+spotlight: 11
 authors: "Joonyong Park, Kenichi Nakamura"
 venue: "Proceedings of the 13th ISCA Speech Synthesis Workshop (SSW), 2025"
 venue_short: "ISCA SSW 2025"
