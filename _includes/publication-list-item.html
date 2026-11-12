@@ -1,6 +1,6 @@
 {% assign p = include.pub %}
 <li class="pub-list__item">
   <span class="pub-list__title">{% if p.paperurl %}<a href="{{ p.paperurl }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</span><br>
-  <span class="pub-list__authors">{% include publication-authors.html authors=p.authors %}</span><br>
+  <span class="pub-list__authors">{% include publication-authors.html authors=p.authors %}{% if p.author_note %} <span class="pub-author-note">({{ p.author_note }})</span>{% endif %}</span><br>
   <span class="pub-list__venue">{{ p.venue }}</span>{% include publication-links.html pub=p inline=true %}
 </li>

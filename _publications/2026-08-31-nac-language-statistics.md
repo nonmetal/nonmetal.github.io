@@ -10,6 +10,9 @@ authors: "Joonyong Park, Shinnosuke Takamichi, David M. Chan, Shunsuke Kando, Yu
 venue: "Under review at IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)"
 venue_short: "Under review · IEEE/ACM TASLP"
 paperurl: "https://arxiv.org/abs/2608.31037"
+image: "/images/publications/nac-language-statistics.png"
+image_width: 560
+image_alt: "Experimental design: 13 neural audio codecs on 3 corpora under 3 noise conditions give 117 token streams, analysed for token statistics and resynthesis quality."
 highlights:
   - "Extends the language-statistical analysis to 13 neural audio codecs spanning multi-codebook RVQ, single-codebook VQ and non-VQ designs."
   - "Covers three corpora under clean, white-noise and real-world (DEMAND) noise conditions."
