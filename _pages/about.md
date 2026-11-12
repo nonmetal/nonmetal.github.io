@@ -10,11 +10,11 @@ redirect_from:
 I am a Ph.D. student at the [Saruwatari & Saito Lab](https://www.sp.ipc.i.u-tokyo.ac.jp/index-en), Department of Information Physics & Computing, Graduate School of Information Science and Technology, [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), advised by [Yuki Saito](https://sython.org/).
 
 My research focuses on speech and audio processing, including:
-- Speech Synthesis / Voice Conversion
-- Spoken Language Models / Speech Conversation
-- Large-Language Models / Agentic AI
+- Speech Synthesis / Speech Language Model
+- Speech MOS Prediction System
+- Audio Information Retrieval
+- Self-Supervised Learning Models / Neural Audio Codecs
 - Generative models (Autoregressive, Diffusion model)
-- Self-Supervised Learning
 
 Previously, I received my Master's degree from The University of Tokyo (advised by [Daisuke Saito](https://www.eeis.t.u-tokyo.ac.jp/en/staff/saito-daisuke/)) and my Bachelor's degree from [Sogang University](https://www.sogang.ac.kr/en/).
 
