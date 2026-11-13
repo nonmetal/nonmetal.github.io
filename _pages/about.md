@@ -11,9 +11,9 @@ I am a Ph.D. student at the [Saruwatari & Saito Lab](https://www.sp.ipc.i.u-toky
 
 My research focuses on speech and audio processing, including:
 - Speech Synthesis / Speech Language Model
-- Speech MOS Prediction System
-- Audio Information Retrieval
+- Speech Evaluation / MOS Prediction System
 - Self-Supervised Learning Models / Neural Audio Codecs
+- Post-training with Reinforcement Learning
 - Generative models (Autoregressive, Diffusion model)
 
 Previously, I received my Master's degree from The University of Tokyo (advised by [Daisuke Saito](https://www.eeis.t.u-tokyo.ac.jp/en/staff/saito-daisuke/)) and my Bachelor's degree from [Sogang University](https://www.sogang.ac.kr/en/).
