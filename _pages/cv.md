@@ -15,7 +15,7 @@ Education
 ======
 * **Ph.D. Student**, The University of Tokyo, Apr. 2025 ~ Present
   * Department of Information Physics & Computing, Graduate School of Information Science and Technology
-  * Research Theme: Towards integrated audio generation model based on linguistic analysis of speech token and automatic evaluation of acoustic signals
+  * Research Theme: Towards emotional, expressive speech generation model based on linguistic analysis of speech token and automatic evaluation of acoustic signals
   * Advisor: Yuki Saito
 * **Master's Degree**, The University of Tokyo, Apr. 2023 ~ Mar. 2025
   * Department of Electrical Engineering & Information Systems, Graduate School of Engineering
@@ -30,14 +30,14 @@ Education
 Research Interests
 ======
 * Speech Synthesis / Speech Language Model
-* Speech MOS Prediction System
-* Audio Information Retrieval
+* Speech Evaluation / MOS Prediction System
 * Self-Supervised Learning Models / Neural Audio Codecs
+* Post-training with Reinforcement Learning
 * Generative models (Autoregressive, Diffusion model)
 
 Work Experiences
 ======
-* **Spellbrush** — Researcher (Part-time), Oct. 2025 ~ Present
+* **Spellbrush** — Researcher (Part-time), Oct. 2025 ~ Oct. 2026
   * Research on speech generation in multimodal dialogue models and video generation models
 * **Cygames Inc.** — Researcher (Part-time), Oct. 2024 ~ Jun. 2025
   * Research on real-time foley sound synthesis in the virtual environment
@@ -73,7 +73,6 @@ Honors and Scholarships
   * 225,000 JPY/month + Research Funds
 * **Best Paper Award**, Sound Symposiums 2025, Jun. 2025
 * **Best Student Paper Award (LY Corporation Award)**, 154th Conference on Spoken Language Processing (SLP), Dec. 2024
-* **Honorable Mention Award**, ETRI OpenAPI Competition, Nov. 2022
 * **Japanese Government (MEXT) Scholarship**, Apr. 2022 ~ Mar. 2026
   * 147,000 JPY/month
 * **Best Undergraduate Paper Award**, Korean Information Science Society, May 2021
